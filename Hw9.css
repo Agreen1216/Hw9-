@@ -1,0 +1,19 @@
+﻿body {
+    background-color: black;
+}
+
+.one {
+    background-color: #0C2340;
+}
+
+.two {
+    background-color: #78BE20;
+}
+
+.three {
+    background-color: #A2AAAD;
+}
+
+#msg {
+    color: white
+}
